@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-UGIdotNET.SpikeTime.TestcontainersApp.Migrations-e5368c81-ce5d-4fc8-9e1e-8b8a913b11a9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Microsoft.EntityFrameworkCore.SqlServer" Version="13.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UGIdotNET.SpikeTime.TestContainersApp.Data\UGIdotNET.SpikeTime.TestContainersApp.Data.csproj" />
+    <ProjectReference Include="..\UGIdotNET.SpikeTime.TestcontainersApp.ServiceDefaults\UGIdotNET.SpikeTime.TestcontainersApp.ServiceDefaults.csproj" />
+  </ItemGroup>
+</Project>

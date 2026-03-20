@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "UGIdotNET.SpikeTime.TestcontainersApp.Test": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55736;http://localhost:55737"
+    }
+  }
+}

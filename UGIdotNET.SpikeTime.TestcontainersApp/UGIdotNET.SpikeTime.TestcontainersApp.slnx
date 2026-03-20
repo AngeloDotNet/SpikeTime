@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="UGIdotNET.SpikeTime.TestcontainersApp.AppHost/UGIdotNET.SpikeTime.TestcontainersApp.AppHost.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.TestContainersApp.Data/UGIdotNET.SpikeTime.TestContainersApp.Data.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.TestcontainersApp.Migrations/UGIdotNET.SpikeTime.TestcontainersApp.Migrations.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.TestcontainersApp.ServiceDefaults/UGIdotNET.SpikeTime.TestcontainersApp.ServiceDefaults.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.TestcontainersApp.Test/UGIdotNET.SpikeTime.TestcontainersApp.Test.csproj" Id="3144b9ea-225b-4ac5-a615-240e1b63fa36" />
+  <Project Path="UGIdotNET.SpikeTime.TestcontainersApp/UGIdotNET.SpikeTime.TestcontainersApp.csproj" />
+</Solution>
