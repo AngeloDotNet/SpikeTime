@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UGIdotNET.SpikeTime.AwsEventBridge.Consumers/UGIdotNET.SpikeTime.AwsEventBridge.Consumers.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.AwsEventBridge/UGIdotNET.SpikeTime.AwsEventBridge.csproj" />
+</Solution>

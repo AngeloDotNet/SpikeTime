@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UGIdotNET.SpikeTime.AzureEventHubs/UGIdotNET.SpikeTime.AzureEventHubs.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.EventsProcessor/UGIdotNET.SpikeTime.EventsProcessor.csproj" />
+</Solution>

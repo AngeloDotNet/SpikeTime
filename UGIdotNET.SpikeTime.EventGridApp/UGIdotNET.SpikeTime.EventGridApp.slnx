@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UGIdotNET.SpikeTime.EventGridApp/UGIdotNET.SpikeTime.EventGridApp.csproj" />
+  <Project Path="UGIdotNET.SpikeTime.EventGridFunctions/UGIdotNET.SpikeTime.EventGridFunctions.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@UGIdotNET.SpikeTime.TestcontainersApp_HostAddress = http://localhost:5126
+
+GET {{UGIdotNET.SpikeTime.TestcontainersApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
